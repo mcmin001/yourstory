@@ -4,5 +4,5 @@
 
 ## 小意的故事
 
-* [Untitled](xiao-yi-de-gu-shi/untitled.md)
+* [序言](xiao-yi-de-gu-shi/untitled.md)
 
