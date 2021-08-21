@@ -4,5 +4,3 @@
 
 ## 小意的故事 <a id="the-xiaoyi-story"></a>
 
-* [序言](the-xiaoyi-story/untitled.md)
-
